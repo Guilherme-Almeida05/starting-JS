@@ -21,13 +21,6 @@ Aqui estão alguns dos tópicos que explorei e pratiquei:
 | **Funções** | ⏳ Em Prática | Declaração, expressão e Arrow Functions. |
 | **Arrays** | ⏳ Em Prática | Métodos básicos (`push`, `pop`, `length`). |
 
-## ✨ Meus Primeiros Projetos
-
-A melhor forma de aprender é colocando a mão na massa! Estes são alguns dos exercícios e projetos simples que desenvolvi:
-
-1.  **`calculadora-simples/`**: Uma calculadora básica que realiza as 4 operações fundamentais.
-2.  **`lista-de-tarefas-cli/`**: Um pequeno script para gerenciar uma lista de tarefas (To-Do List) no console.
-3.  **`contador-de-caracteres/`**: Uma função que recebe uma string e retorna o número de caracteres.
 
 
 ## 🎯 Próximos Passos
